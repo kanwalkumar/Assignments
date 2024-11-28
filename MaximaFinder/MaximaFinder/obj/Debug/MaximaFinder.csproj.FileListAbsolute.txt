@@ -1,0 +1,7 @@
+E:\Kanwal\MaximaFinder\MaximaFinder\bin\Debug\MaximaFinder.exe.config
+E:\Kanwal\MaximaFinder\MaximaFinder\bin\Debug\MaximaFinder.exe
+E:\Kanwal\MaximaFinder\MaximaFinder\bin\Debug\MaximaFinder.pdb
+E:\Kanwal\MaximaFinder\MaximaFinder\obj\Debug\MaximaFinder.csprojAssemblyReference.cache
+E:\Kanwal\MaximaFinder\MaximaFinder\obj\Debug\MaximaFinder.csproj.CoreCompileInputs.cache
+E:\Kanwal\MaximaFinder\MaximaFinder\obj\Debug\MaximaFinder.exe
+E:\Kanwal\MaximaFinder\MaximaFinder\obj\Debug\MaximaFinder.pdb
